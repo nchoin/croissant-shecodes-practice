@@ -7,13 +7,15 @@ h1 {
   text-align: center;
 }
 
-a {
+nav a {
   padding: 5px;
-  background: tan;
   color: sienna;
   margin: 10px;
 }
-
+p{
+    text-align: center;
+    font-size: 1.5em;
+}
 img {
   max-width: 80%;
   /* display: block;
@@ -23,11 +25,11 @@ img {
   display: flex;
   justify-content: center;
 }
-/* footer{
-    margin-top: 10px;
-} */
 .nav-container{
     margin-top: 20px;
-       display: flex;
-    justify-content: space-evenly;
+    display: flex;
+    justify-content: center;
 }
+/* nav{
+    margin: 10px auto;
+} */
