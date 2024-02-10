@@ -1,0 +1,33 @@
+body {
+  background: goldenrod;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+a {
+  padding: 5px;
+  background: tan;
+  color: sienna;
+  margin: 10px;
+}
+
+img {
+  max-width: 80%;
+  /* display: block;
+    margin: 10px auto; */
+}
+.photo-container {
+  display: flex;
+  justify-content: center;
+}
+/* footer{
+    margin-top: 10px;
+} */
+.nav-container{
+    margin-top: 20px;
+       display: flex;
+    justify-content: space-evenly;
+}
